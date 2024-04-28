@@ -1,2 +1,2 @@
 # main.py
-print("Hello Linux")
+print("Hello World")
